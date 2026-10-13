@@ -23,7 +23,7 @@
 public class RailtonRocha
 {
     public string Formacao  => "Ciência da Computação – UNIP (7º semestre)";
-    public string Trabalho  => "Suporte técnico e integração de sistemas";
+    public string Trabalho  => "Suporte técnico N2 e integração de sistemas";
     public string Local     => "São Paulo, SP";
 
     public string[] My Works => new[]
