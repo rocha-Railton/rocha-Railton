@@ -80,6 +80,18 @@ public class RailtonRocha
 
 ---
 
+## 🐍 Minhas contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rocha-Railton/rocha-Railton/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rocha-Railton/rocha-Railton/output/github-snake.svg" />
+    <img alt="Cobrinha comendo as contribuições do GitHub" src="https://raw.githubusercontent.com/rocha-Railton/rocha-Railton/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ## 📫 Vamos conversar?
 
 Me chama no
