@@ -95,7 +95,7 @@ public class RailtonRocha
 ## 📫 Vamos conversar?
 
 Me chama no
-[LinkedIn](https://www.linkedin.com/in/rdrcempregos/)! 🤝
+[LinkedIn](https://www.linkedin.com/in/rocha-railton/)! 🤝
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
